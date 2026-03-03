@@ -1,0 +1,7 @@
+{
+  "name": "Starlink Signal Analyzer",
+  "description": "Advanced dashboard for analyzing Starlink signal strength, predicting weak spots, and visualizing coverage data.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
